@@ -1,3 +1,3 @@
 # hello-world
 test test
-$a^1+b^3=c$
+$$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
